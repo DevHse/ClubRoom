@@ -15,9 +15,9 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/start-react/native-starter-kit.git
+$ git clone git@github.com:DevHse/ClubRoom.git
 
-$ cd native-starter-kit/
+$ cd ClubRoom/
 
 $ npm install
 ```
